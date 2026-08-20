@@ -1,6 +1,6 @@
 # Hi, I'm Jason 👋
 
-I am a dual major in **Computer Science and Computational Mathematics** at **Penn State University**. I focus on building scalable software, data pipelines, and quantitative models that turn complex data into actionable insights.
+I am a dual major in **Computer Science and Computational Mathematics** at **Schreyer Honors College @ Penn State University**. I focus on building scalable software, data pipelines, and quantitative models that turn complex data into actionable insights.
 
 ### 🔭 Core Technical Interests
 * **Full Stack Development:** Designing scalable REST APIs, microservices, and reactive frontend architectures.
