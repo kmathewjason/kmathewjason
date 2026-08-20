@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Jason 👋
 
-<!--
-**kmathewjason/kmathewjason** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a dual major in **Computer Science and Computational Mathematics** at **Penn State University**. I focus on building scalable software, data pipelines, and quantitative models that turn complex data into actionable insights.
 
-Here are some ideas to get you started:
+### 🔭 Core Technical Interests
+* **Full Stack Development:** Designing scalable REST APIs, microservices, and reactive frontend architectures.
+* **AI & Machine Learning:** Developing predictive models, ensembling algorithms (XGBoost, Neural Networks), and automated feature pipelines.
+* **Quantitative Analysis & Trading:** Applying mathematical risk management, EV modeling, and portfolio allocation algorithms (Kelly Criterion) to dynamic markets.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+* **Languages:** Python, Java, JavaScript, C/C++, SQL
+* **Frameworks & Libraries:** React, Vite, FastAPI, PyTorch, Scikit-Learn, XGBoost, Pandas, NumPy
+* **Tools & Platforms:** Git, Docker, Linux, Tailwind CSS
+
+Feel free to explore my repositories below!
